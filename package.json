@@ -1,0 +1,19 @@
+{
+  "name": "popsim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "bundle": "webpack"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "author": "Vinay Konuru]",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
