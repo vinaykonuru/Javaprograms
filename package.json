@@ -7,8 +7,8 @@
     "bundle": "webpack"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3"
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
   },
   "author": "Vinay Konuru]",
   "license": "GPL-3.0-or-later",
